@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# School BlueJ Projects
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Class 8 all projects of Java
+
+## Installing
+Install [BlueJ](https://www.bluej.org/versions.html)
+And then Download this folder and then unzip it and then open the folder in Blue J
