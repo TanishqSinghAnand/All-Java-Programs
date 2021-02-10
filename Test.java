@@ -1,7 +1,6 @@
-public class Test
-{
-    void tsa(){
+public class Test {
+    void tsa() {
         char tsa = 'a';
-        
+
     }
 }
